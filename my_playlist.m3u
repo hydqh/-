@@ -1,5 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://example.com/logo.png",CCTV1
-http://example.com/cctv1.stream
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」JJ斗地主
+＃Extm3U
+
+#EXTINF：-1 tvg-logo =“ https：//epg.iill.top/logo/哔哩哔哩.png” group-title =“•游戏「赛事」”，「b站」jj斗地主
 https://live.iill.top/bilibili/22021983
